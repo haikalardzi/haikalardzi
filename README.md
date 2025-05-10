@@ -55,6 +55,8 @@ Driven by a problem-solving mindset, I enjoy taking projects from idea to execut
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
 
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socketdotio&logoColor=fff)](#)
+[![WebSocket](https://custom-icon-badges.demolab.com/badge/WebSocket-3c790a?logo=WebSocket&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
