@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hi, I'm Haikal Ardzi Shofiyyurrohman
+<h1 align="center">👋 Hi, I'm Haikal
   <br>
-  <img src="https://img.shields.io/badge/Software%20Enthusiast-0d1117?logo=geeksforgeeks&logoColor=white" alt="Software Enthusiast" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0366d6?logo=javascript&logoColor=white" alt="Full-Stack Developer" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-24292e?logo=dailydotdev&logoColor=white" alt="Software Engineer" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-2ea44f?logo=hackerrank&logoColor=white" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/Software%20Enthusiast-0d1117" alt="Software Enthusiast" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0366d6" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-24292e" alt="Software Engineer" />
 </h1>
 
 <h2>🚀 About Me</h2>
