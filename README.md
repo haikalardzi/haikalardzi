@@ -1,16 +1,10 @@
-<h1 align="center">👋 Hi, I'm Haikal Ardzi Shofiyyurrohman</h1>
-
-<p align="center">
-  <h2>💻 About Me</h2>
-
-<p align="center">
+<h1 align="center">👋 Hi, I'm Haikal Ardzi Shofiyyurrohman
+  <br>
   <img src="https://img.shields.io/badge/Software%20Enthusiast-0d1117?logo=geeksforgeeks&logoColor=white" alt="Software Enthusiast" />
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-0366d6?logo=javascript&logoColor=white" alt="Full-Stack Developer" />
   <img src="https://img.shields.io/badge/Software%20Engineer-24292e?logo=dailydotdev&logoColor=white" alt="Software Engineer" />
   <img src="https://img.shields.io/badge/Problem%20Solver-2ea44f?logo=hackerrank&logoColor=white" alt="Problem Solver" />
-</p>
-
-<hr>
+</h1>
 
 <h2>🚀 About Me</h2>
 
@@ -24,7 +18,7 @@ Driven by a problem-solving mindset, I enjoy taking projects from idea to execut
 
 <h2>🧰 My Tech Stack</h2>
 
-<h3>Programming Languages</h3>
+<h3>#️⃣ Programming Languages</h3>
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -41,7 +35,7 @@ Driven by a problem-solving mindset, I enjoy taking projects from idea to execut
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
-<h3>Framework/Library</h3>
+<h3>📚 Framework/Library</h3>
 
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)](#)
@@ -61,7 +55,7 @@ Driven by a problem-solving mindset, I enjoy taking projects from idea to execut
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 
-<h3>Database</h3>
+<h3>🛢️ Database</h3>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -69,7 +63,7 @@ Driven by a problem-solving mindset, I enjoy taking projects from idea to execut
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Firestore](https://img.shields.io/badge/Firestore-F5F5F5?logo=Firebase&logoColor=orange)](#)
 
-<h3>Tools</h3>
+<h3>🛠️ Tools</h3>
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
