@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Haikal Ardzi Shofiyyurrohman</h1>
 
 <p align="center">
-  Final-year software engineering student • Software Enthusiast • Full-Stack Developer
+  Final-year Software Engineering Student • Software Enthusiast • Full-Stack Developer
 </p>
 
 <hr>
